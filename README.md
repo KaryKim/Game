@@ -6,3 +6,7 @@
 其中位图字体用的Littera(http://kvazars.com/littera/)（良心推荐）
 此外因为源码包超出4M,采用了分包加载
 图片等素材用的外网资源
+####
+
+游戏初始效果图
+![photo](https://github.com/KaryKim/Game/blob/master/beijing.png)
