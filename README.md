@@ -16,9 +16,9 @@
 
 ![photo](https://github.com/KaryKim/Game/blob/master/beijing.png)  
 
-![photo](https://github.com/KaryKim/Game/blob/master/assets/Texture/1.png)
+![photo](https://github.com/KaryKim/Game/blob/master/3.png)
 
-![photo](https://github.com/KaryKim/Game/blob/master/assets/Texture/3.png)  
+![photo](https://github.com/KaryKim/Game/blob/master/1.png)  
 
 
 
