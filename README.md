@@ -18,7 +18,7 @@
 
 ![photo](https://github.com/KaryKim/Game/blob/master/3.png)
 
-![photo](https://github.com/KaryKim/Game/blob/master/1.png)  
+![photo](https://github.com/KaryKim/Game/blob/master/bg1.png)  
 
 
 
