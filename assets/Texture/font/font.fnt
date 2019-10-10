@@ -1,0 +1,17 @@
+info face=font size=72 bold=0 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=80 base=52 scaleW=127 scaleH=362 pages=1 packed=0
+page id=0 file="font.png"
+chars count=10
+char id=48 x=2 y=2 width=39 height=58 xoffset=1 yoffset=0 xadvance=40 page=0 chnl=15
+char id=49 x=2 y=62 width=25 height=58 xoffset=6 yoffset=0 xadvance=40 page=0 chnl=15
+char id=50 x=2 y=122 width=40 height=58 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=15
+char id=51 x=43 y=2 width=40 height=59 xoffset=1 yoffset=0 xadvance=40 page=0 chnl=15
+char id=52 x=2 y=182 width=42 height=58 xoffset=-1 yoffset=0 xadvance=40 page=0 chnl=15
+char id=53 x=44 y=63 width=40 height=58 xoffset=1 yoffset=1 xadvance=40 page=0 chnl=15
+char id=54 x=85 y=2 width=40 height=58 xoffset=1 yoffset=0 xadvance=40 page=0 chnl=15
+char id=55 x=44 y=123 width=40 height=57 xoffset=1 yoffset=1 xadvance=40 page=0 chnl=15
+char id=56 x=2 y=242 width=40 height=58 xoffset=1 yoffset=0 xadvance=40 page=0 chnl=15
+char id=57 x=2 y=302 width=40 height=58 xoffset=1 yoffset=0 xadvance=40 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=1 yoffset=0 xadvance=20 page=0 chnl=15
+kernings count=1
+kerning first=49 second=49 amount=-5
