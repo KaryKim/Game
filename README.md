@@ -1,7 +1,7 @@
 # Game
 因为上线需要软著有点麻烦，所以只上传了体验版。可微信扫描二维码玩一玩，申请体验，我可以在后台操作。
 
-![photo](https://github.com/KaryKim/Game/blob/master/QR code.png)      
+![photo](https://github.com/KaryKim/Game/blob/master/QR%20code.png)      
 游戏是独立制作。     
 有骨骼动画、碰撞、预制资源、计时器、对象池等   
 
@@ -19,7 +19,7 @@
 
 # 倒计时3秒进入游戏
 
-![photo](https://github.com/KaryKim/Game/blob/count down.jpg)
+![photo](https://github.com/KaryKim/Game/blob/count%20down.jpg)
  
  
 # 物体有几秒的存活时间待获取
