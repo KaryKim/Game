@@ -19,7 +19,7 @@
 
 # 倒计时3秒进入游戏
 
-![photo](https://github.com/KaryKim/Game/blob/count%20down.jpg)
+![photo](https://github.com/KaryKim/Game/blob/master/count%20down.jpg)
  
  
 # 物体有几秒的存活时间待获取
